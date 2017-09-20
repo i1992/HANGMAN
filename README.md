@@ -1,6 +1,6 @@
 # HANGMAN_GAME
 
-[FUN](https://github.com/i1992/HANGMAN) is a
+[Hangman](https://github.com/i1992/HANGMAN) is a
 Application which user thinks of a word, phrase or sentence and the other tries to guess it by suggesting letters or numbers, within a certain number of guesses..
 
 # Quickstart
@@ -13,8 +13,9 @@ Application which user thinks of a word, phrase or sentence and the other tries 
 
 ### Run
 
-	$ node cli.js -d easy  or node cli.js -d hard
+	$ node cli.js -d easy  
+	$ node cli.js -d hard
   
   For Help
   
-  $ node cli.js -h
+  	$ node cli.js -h
