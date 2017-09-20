@@ -1,0 +1,16 @@
+{
+  "name": "Hang_game",
+  "version": "1.0.0",
+  "description": "game",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hitarth",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "inquirer": "^3.0.4",
+    "yargs": "^6.6.0"
+  }
+}
